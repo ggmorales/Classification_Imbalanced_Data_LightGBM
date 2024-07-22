@@ -1,4 +1,3 @@
-## Lenguaje utilizado: Python
 ## Para ver documento --> Fraud_detection_lightGBM.html --> Download raw file
 
 # Predicción de fraudes en transacciones con tarjeta de crédito
@@ -10,3 +9,4 @@ optado por este algoritmo ya que tiene una gran compatibilidad con grandes conju
 
 En el análisis se hace frente al desbalanceo de los datos creando nuevos datos sintéticos en el conjunto de entramiento mediante una técnica de over-sampling.
 
+## Lenguaje utilizado: Python
