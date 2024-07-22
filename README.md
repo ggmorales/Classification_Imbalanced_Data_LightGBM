@@ -1,7 +1,7 @@
-# Predicción de fraudes en transacciones con tarjeta de crédito
-
 ## Lenguaje utilizado: Python
-## Para descargar documento --> Download raw file
+## Para ver documento --> Fraud_detection_lightGBM.html --> Download raw file
+
+# Predicción de fraudes en transacciones con tarjeta de crédito
 La base de datos original fue extraida de Kaggle y está altamente desbalanceada, pues presenta transacciones que ocurrieron en dos días, donde tenemos 492 fraudes de un total de 284,807 transacciones. Solo contiene variables de entrada numéricas que son el resultado de una transformación PCA, ya que por confidencialidad no se muestran las variables reales. Esta base de datos puede encontrarse en Kaggle como Credit Card Fraud Detection (Machine Learning Group - ULB).
 
 Para el análisis se utiliza el algoritmo LightGBM, un algoritmo basado en árboles de decisión que utiliza la técnica de gradient boosting, donde combina arboles de decisión sencillos, de manera que cada nuevo miniárbol
